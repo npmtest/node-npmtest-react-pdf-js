@@ -1,0 +1,15 @@
+<svg height="190" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="190" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 00:47:25 +0000  2517049 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 00:47:25 +0000     1102 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 00:47:25 +0000     3189 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 00:47:25 +0000  1702242 bytes  dist/react-pdf-js.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 00:47:25 +0000   783922 bytes  dist/react-pdf-js.min.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 00:47:25 +0000    15033 bytes  lib/Pdf.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 00:47:25 +0000      283 bytes  lib/index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 00:47:25 +0000     2144 bytes  package.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 00:47:25 +0000     9088 bytes  src/Pdf.jsx</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 00:47:25 +0000       46 bytes  src/index.js</tspan>
+</text>
+</svg>
